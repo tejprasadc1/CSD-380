@@ -1,4 +1,4 @@
-# CSD DevOps
+# CSD 380 DevOps
 
 ## Contributors
 1. Professor Joseph Issa
